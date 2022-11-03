@@ -201,3 +201,7 @@ body {
       border-color: #da8e1d;
       }
       
+
+  .form-control {
+    background-color: #fffffe;
+  }
